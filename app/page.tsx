@@ -6,7 +6,7 @@ export default function Home() {
   <div className='container'>
     <Grid container>
       <Grid item xs={12} justifyContent='center' alignItems='center' display='flex' marginTop={30}>
-        <Button variant='contained'>Hola</Button>
+        <Button variant='contained'>Probando</Button>
       </Grid>
     </Grid>
   </div>
